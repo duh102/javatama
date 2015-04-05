@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" build="bin/" main="src.org.duh102.javatama.DesktopMonster" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/org/duh102/javatama/data/MonsterModel.java" package="org.duh102.javatama.data" timestamp="05-Apr-2015 00:02:27">
+        <select from="35" to="35"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/org/duh102/javatama/DesktopMonster.java" package="org.duh102.javatama" timestamp="05-Apr-2015 00:02:18">
+        <select from="35" to="35"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/org/duh102/javatama/disp/PixelGridEmulator.java" package="org.duh102.javatama.disp" timestamp="05-Apr-2015 00:07:14">
+        <select from="35" to="35"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
