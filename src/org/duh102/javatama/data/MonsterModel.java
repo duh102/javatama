@@ -3,6 +3,9 @@ package org.duh102.javatama.data;
 public class MonsterModel
 {
   //for authenticity's sake, we use bytes whenever possible
+  //even though Java bytes aren't really bytes
+  //they go from -128 to 127
+  
   //visible stats
   private byte happiness, hunger, hygiene, health, age;
   
