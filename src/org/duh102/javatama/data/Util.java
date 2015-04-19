@@ -6,4 +6,9 @@ public class Util
   {
     return low <= val && val <= high;
   }
+  
+  public static boolean checkBit(byte toCheck, byte checkWhich)
+  {
+    return (toCheck & 0x01<<checkWhich) > 0;
+  }
 }
